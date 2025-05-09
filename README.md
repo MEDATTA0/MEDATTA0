@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MEDATTA0, but my real name is Ibrahim Maâzou Djahadi
-- 👀 I’m interested in cybersecurity and web development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on boot camp in order to learn quickly and efficiently
-- 📫 How to reach me? send me an email to ibrahimdjahadi46@gmail.com  
+- 👋 Hi, I'm @MEDATTA0, but my real name is Ibrahim Maâzou Djahadi
+- 👀 I'm interested in cybersecurity and web development
+- 🌱 I'm currently learning JavaScript
+- 💞️ I'm looking to collaborate on a boot camp to learn quickly and efficiently
+- 📫 How to reach me? Please send me an email to ibrahimdjahadi46@gmail.com  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like gaming laptops and watching anime
 

@@ -21,8 +21,9 @@
 ### **Backend**
 
 * Node.js, Express.js, NestJS
-* Prisma, Sequelize
-* PostgreSQL, MongoDB, MySQL, MariaDB, Mongoose, Supabase, Docker
+* Prisma, Sequelize, Mongoose
+* PostgreSQL, MongoDB, MySQL, MariaDB
+* Supabase, Docker
 
 ### **Tools**
 

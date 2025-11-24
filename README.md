@@ -9,6 +9,7 @@
 * **NestJS**
 * **Database management** and optimization (with PostgreSQL, Docker, Prisma)
 * Exploring **machine learning basics**
+* **IaC**: Terraform, Ansible
 
 ---
 
@@ -24,7 +25,7 @@
 * Prisma, Sequelize, Mongoose
 * PostgreSQL, MongoDB, MySQL, MariaDB
 * Supabase, Docker
-
+* Terraform, Ansible
 ### **Tools**
 
 * Git & GitHub, VS Code, npm, yarn, Webpack

@@ -1,15 +1,15 @@
 # 👋 Hey, I’m Ibrahim Maâzou Djahadi (@MEDATTA0)
 
-💡 I’m a **junior full-stack developer** passionate about building scalable backend systems and clean, user-friendly web applications.
+💡 I’m a **full-stack developer** passionate about building scalable backend systems and clean, user-friendly web applications.
 
 ---
 
 ## 🌱 Currently Learning
 
-* **NestJS**
 * **Database management** and optimization (with PostgreSQL, Docker, Prisma)
 * Exploring **machine learning basics**
 * **IaC**: Terraform, Ansible
+* **Java**
 
 ---
 
@@ -28,7 +28,7 @@
 * Terraform, Ansible
 ### **Tools**
 
-* Git & GitHub, VS Code, npm, yarn, Webpack
+* Git & GitHub, VS Code, Zed, npm, yarn
 
 ---
 

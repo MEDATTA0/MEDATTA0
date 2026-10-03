@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Ibrahim Maâzou Djahadi (@MEDATTA0)
 
-💡 I’m a **full-stack developer** by title, **backend engineer** by heart, obsessed with **System Design**. I build backends and care about how they scale.
+💡 I’m a **full-stack developer** by _title_, **backend engineer** & **System Designer** by _heart_. I build backends and care about how they scale.
 
 ---
 

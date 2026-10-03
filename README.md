@@ -1,13 +1,13 @@
 # 👋 Hey, I’m Ibrahim Maâzou Djahadi (@MEDATTA0)
 
-💡 I’m a **full-stack developer** passionate about building scalable backend systems and clean, user-friendly web applications.
+💡 I’m a **full-stack developer** by title, **backend engineer** by heart, obsessed with **System Designer**. I build the backend and obsess over how it's designed to scale.
 
 ---
 
 ## 🌱 Currently Learning
 
 * **Database management** and optimization (with PostgreSQL, Docker, Prisma)
-* Exploring **machine learning basics**
+* Learning **machine learning**
 * **IaC**: Terraform, Ansible
 * **Java**
 
@@ -21,14 +21,14 @@
 
 ### **Backend**
 
-* Node.js, Express.js, NestJS
-* Prisma, Sequelize, Mongoose
+* Node.js, Express.js, NestJS, FastAPI
+* Prisma, Sequelize, Mongoose, SQLAlchemy
 * PostgreSQL, MongoDB, MySQL, MariaDB
-* Supabase, Docker
+* Supabase, Docker, Podman
 * Terraform, Ansible
 ### **Tools**
 
-* Git & GitHub, VS Code, Zed, npm, yarn
+* Git & GitHub, VS Code, Zed, npm, yarn, pnpm
 
 ---
 
